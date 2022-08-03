@@ -1,9 +1,9 @@
-package com.swagger.test.service;
+package com.swagPack.test.service;
 
 import java.util.List;
 import java.util.Optional;
 
-import com.swagger.test.entity.ContactBook;
+import com.swagPack.test.entity.ContactBook;
 
 public interface ContactService {
 	

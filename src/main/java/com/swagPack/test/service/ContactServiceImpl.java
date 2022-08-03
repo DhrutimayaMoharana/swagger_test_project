@@ -1,4 +1,4 @@
-package com.swagger.test.service;
+package com.swagPack.test.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.swagger.test.entity.ContactBook;
-import com.swagger.test.repository.ContactRepository;
+import com.swagPack.test.entity.ContactBook;
+import com.swagPack.test.repository.ContactRepository;
 
 @Service
 public class ContactServiceImpl implements ContactService {

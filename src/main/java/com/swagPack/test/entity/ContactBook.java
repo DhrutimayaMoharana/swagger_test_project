@@ -1,4 +1,4 @@
-package com.swagger.test.entity;
+package com.swagPack.test.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
