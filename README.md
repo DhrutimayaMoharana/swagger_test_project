@@ -23,8 +23,7 @@
 browser URL
 http://localhost:8080/swagger-ui.html
 
-########################################################################
-########################################################################
+
 # io.springfox >= 3.X
 <dependency>
  <groupId>io.springfox</groupId>
