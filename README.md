@@ -1,6 +1,6 @@
 # swagger_test_project
 
-io.springfox >= 2.X
+# io.springfox >= 2.X
 <dependency>
   <groupId>io.springfox</groupId>
   <artifactId>springfox-swagger-ui</artifactId>
